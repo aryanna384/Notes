@@ -1,0 +1,11 @@
+{
+  "foldHeading": true,
+  "foldIndent": true,
+  "tabSize": 2,
+  "promptDelete": false,
+  "defaultViewMode": "preview",
+  "useTab": false,
+  "autoConvertHtml": false,
+  "useMarkdownLinks": false,
+  "readableLineLength": false
+}

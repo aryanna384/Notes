@@ -1,0 +1,19 @@
+{
+  "userAdmonitions": {
+    "ad-note": {
+      "type": "ad-note",
+      "color": "255, 143, 188",
+      "icon": "angle-right"
+    },
+    "ad-quote": {
+      "type": "ad-quote",
+      "color": "0, 253, 190",
+      "icon": "anchor"
+    }
+  },
+  "syntaxHighlight": true,
+  "copyButton": true,
+  "version": "",
+  "autoCollapse": true,
+  "defaultCollapseType": "open"
+}

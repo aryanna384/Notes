@@ -1,0 +1,142 @@
+{
+  "main": {
+    "id": "780a6e9a37285620",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3db654cd9863138",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "笔记/实战项目/仿微信读书web阅读器.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d06a3dcd04a22d34",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0ca9fef04d9e7d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad887a1178f89c6f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7f0bfa25e367dd4e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "判断数组",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 168.5
+  },
+  "right": {
+    "id": "920054d315d6a080",
+    "type": "split",
+    "children": [
+      {
+        "id": "843df9aa0a567018",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe82f4a28e2d2aa7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "笔记/实战项目/仿微信读书web阅读器.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e1d572744f0520fc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "笔记/实战项目/仿微信读书web阅读器.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "923c9a757b54daf5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4d304869da21e26f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "笔记/实战项目/仿微信读书web阅读器.md"
+              }
+            }
+          },
+          {
+            "id": "7392a26e346ef565",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 199.5
+  },
+  "active": "c3db654cd9863138",
+  "lastOpenFiles": [
+    "笔记/实战项目/仿微信读书web阅读器.md",
+    "笔记/实战项目/5]]S2A@I_1IV`)X{39E8F{Q 2.jpg",
+    "share/MS英文面试.md",
+    "share/面试.md",
+    "英语/积累 1.md",
+    "00面试/面经-vue.md",
+    "01 前端/JavaScript/作用域链和闭包.md",
+    "00面试/面经-html&css.md",
+    "01 前端/JavaScript/13数组-其他方法.md",
+    "01 前端/JavaScript/07对象.md"
+  ]
+}

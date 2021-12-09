@@ -1,0 +1,29 @@
+{
+  "userAdmonitions": {
+    "ad-node": {
+      "type": "ad-node",
+      "color": "255, 143, 188",
+      "icon": {
+        "name": "angle-right",
+        "type": "font-awesome"
+      },
+      "command": false
+    },
+    "ad-quote": {
+      "type": "ad-quote",
+      "color": "0, 253, 190",
+      "icon": {
+        "name": "anchor",
+        "type": "rpg"
+      },
+      "command": false
+    }
+  },
+  "syntaxHighlight": false,
+  "copyButton": false,
+  "version": "6.3.0",
+  "autoCollapse": false,
+  "defaultCollapseType": "open",
+  "syncLinks": true,
+  "enableMarkdownProcessor": false
+}

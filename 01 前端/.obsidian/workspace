@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "2703f25980bb4efa",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9c02fe6772f2bc0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "JavaScript/防抖节流.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "99c44b8fc8c82513",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7eb39ab7c9a2584",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8822a4916d70b44",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4969d3e664ea42af",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5816b7447f45becf",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 265
+  },
+  "right": {
+    "id": "3d88b71561851018",
+    "type": "split",
+    "children": [
+      {
+        "id": "9324d7166223794a",
+        "type": "tabs",
+        "dimension": 69.25403225806451,
+        "children": [
+          {
+            "id": "abf69298633dc5d9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "JavaScript/防抖节流.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "102d1143deead04b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "JavaScript/防抖节流.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "82917264abe8ad94",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "JavaScript/防抖节流.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "ff0d46a5059f1e6e",
+        "type": "tabs",
+        "dimension": 30.745967741935484,
+        "children": [
+          {
+            "id": "a8d30400e3e5f4f6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 208
+  },
+  "active": "f9c02fe6772f2bc0",
+  "lastOpenFiles": [
+    "JavaScript/防抖节流.md",
+    "JavaScript/06函数.md",
+    "JavaScript/this指向总结.md",
+    "this.md",
+    "JavaScript/09原型和原型链.md",
+    "JavaScript/07对象.md",
+    "面试八股文整理.md",
+    "前端笔记/CSS/选择器.md",
+    "前端笔记/CSS/布局模式.md",
+    "blog/hexo主题.md"
+  ]
+}
